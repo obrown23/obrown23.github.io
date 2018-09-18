@@ -14,6 +14,8 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
 
+**Make sure to look at the [evaluation page](evaluation.md) for more input concerning how the homework will be graded.**
+
 ### Submission
 
 On GA-Grader, your submission should contain a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdi-atl-student/wdi-atl-student.github.io`, for example, and **not** `http://wdi-atl-student.github.io`.
