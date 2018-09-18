@@ -16,7 +16,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 ### Submission
 
-Please **create an issue on this repo**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
+On GA-Grader, your submission should contain a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdi-atl-student/wdi-atl-student.github.io`, for example, and **not** `http://wdi-atl-student.github.io`.
 
 ## Pairing with Others
 
@@ -53,7 +53,7 @@ You can also Google "developer portfolio website" for more ideas :)
 ## Bonus!
 
 * Use pseudoclasses
-* Explore CSS animations
+* Explore CSS animations (Or use a library like Animate.css)
 * Try using some JavaScript
 
 ### Sass
