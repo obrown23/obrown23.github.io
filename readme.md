@@ -40,10 +40,8 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 Personal websites from some previous WDI grads:
 
-* http://bnmrrs.com/
 * http://raleighdaniel.com/
 * http://jlappano.github.io/
-* http://bradpuder.com/
 * http://kevoncheung.com/
 * http://www.larrybuch.com/
 * http://adrianbautista.com/
