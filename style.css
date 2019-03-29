@@ -30,3 +30,14 @@ a{
 ul > li a:hover{
     background-color: yellow;
 }
+#main{
+    display: flex;
+    width: 100%;   
+}
+#info{
+    margin-left: 30px;
+    width: 60%;   
+}
+button{
+    color: black;
+}
