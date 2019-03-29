@@ -23,3 +23,10 @@ nav > ul > li{
 
 
 }
+a{
+    text-decoration-line: none;
+    color: white;
+} 
+ul > li a:hover{
+    background-color: yellow;
+}
